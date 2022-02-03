@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtgoat
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anythings that interests me 
 - 📫 How to reach me -- stay turned
 
