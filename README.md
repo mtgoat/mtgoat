@@ -2,7 +2,7 @@
 
 I’m Aki @mtgoat :goat: 
 
-👀 :bug: I’m interested in testing and debugging codes
+👀 :bug: I’m interested in software development and data science. 
 
 🌱 I’m currently learning back-end, server-side coding in C#/.NET and SQL with React for full-stack integration at [NewForce](https://newforce.co/) 
 
